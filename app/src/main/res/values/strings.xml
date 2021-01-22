@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Movie App</string>
+    <string name="error_msg">Oops! Something went wrong</string>
+    <string name="no_internet">Oops! Please check your internet connection.</string>
+
+
+</resources>
